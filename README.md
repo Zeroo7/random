@@ -2,4 +2,4 @@
 
  random advices, jokes and activities.
  
- [preview link](https://weather.coolpage.biz/)
+ [preview link](https://zeroo7.github.io/random/)
